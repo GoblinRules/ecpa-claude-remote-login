@@ -1,0 +1,7 @@
+{
+  "id": "claude-remote-login",
+  "name": "Claude Remote Login",
+  "sourceRepository": "https://github.com/GoblinRules/ecpa-plugins",
+  "sourcePath": "plugins/claude-remote-login",
+  "registry": "https://raw.githubusercontent.com/GoblinRules/ecpa-plugins/master/registry.json"
+}
